@@ -26,7 +26,7 @@ https://user-images.githubusercontent.com/91252395/152012129-47fe03cd-f50a-40fc-
 
 - Install and configure Readyapi
 
-- Import Rest api available in Readyapi folder
+- Import Rest api project available in Readyapi folder
 
 - Install and configure MySql Server
 
@@ -41,7 +41,7 @@ https://user-images.githubusercontent.com/91252395/152012129-47fe03cd-f50a-40fc-
 
 - Restart Ready api
 
-- Click On Databases and modify connection string according to your mysql server information here is the template:
+- Click On Databases and modify connection string according to your mysql server information, here is the template:
 
 ```bash
   jdbc:mysql://<HOST:127.0.0.1>:<PORT:3306>/<DB>?user=<USER>&password=<PASSWORD>
