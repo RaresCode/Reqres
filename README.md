@@ -1,11 +1,11 @@
 
 # Testing Reqres Api
 
-Testing Reqres api using readyapi with different kind of assertions, perform database crud operations and match data against the api
+This project involves testing the Reqres API using ReadyAPI. Through a combination of various assertions, database CRUD operations, and data matching techniques, the project aims to ensure the API's functionality, performance, and data integrity. ReadyAPI's powerful assertion capabilities will be used to validate HTTP status codes, response SLAs, content inclusion/exclusion, and content matching. Additionally, the project will perform CRUD operations on the associated database using JDBC statements and verify the success and timing of these operations. The captured data will be compared against the API response, ensuring consistency. 
 
 ## Readyapi Assertions/Operations
 
-- Valid/Invalid http status codes
+- Valid/Invalid HTTP status codes
 - Response SLA
 - Contains/Not Contains
 - Match Content
